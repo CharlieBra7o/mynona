@@ -1,0 +1,9 @@
+{
+    "credentials": {
+        "user": "MIGADU_USER",
+        "apiKey": "USER_TOKEN"
+    },
+    "domains": [
+        "example.com"
+    ]
+}
