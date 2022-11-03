@@ -23,7 +23,7 @@ To use this tool a Migadu API token is required with at least one registered dom
 
 ### Setup
 
-1. Build the Vue frontend: `( cd frontend/ && yarn run build ) `
+1. Build the Vue frontend: `( cd frontend/ && yarn install && yarn build )`
 2. Build the Go backend: `go build`
 3. Start the service: `./mynona`
 4. The UI is now available at http://localhost:3000
